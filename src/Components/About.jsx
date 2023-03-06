@@ -18,8 +18,8 @@ export default function Contact() {
         </p>
         <p>
           Live URL:{" "}
-          <a href="https://firepost.netlify.app/">
-            https://firepost.netlify.app/
+          <a href="https://redphantom.netlify.app/">
+            https://redphantom.netlify.app/
           </a>
         </p>
         <hr />
@@ -27,7 +27,7 @@ export default function Contact() {
         <ol>
           <li>
             Clone the repository to your local machine. ({" "}
-            <code>https://github.com/ui-vivek/Building-Blog-React.git</code> ){" "}
+            <code>https://github.com/ui-vivek/RedPhantom-Tech-Novelty.git</code> ){" "}
           </li>
           <li>Navigate to the project directory.</li>
           <li>

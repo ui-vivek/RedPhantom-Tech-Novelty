@@ -6,7 +6,7 @@
   <body>
     <p p className="font-bold text-xl">RedPhantom Tech Novelty</h1>
     <p>This project is a real-time web application that utilizes Firebase's Realtime Database to create a dynamic user interface. The application is built using React Router v6 for client-side routing, and Bootstrap for front-end styling. The useState and useEffect hooks are used for state management and event handling, while useParams is used to extract parameters from the URL. Additionally, preventDefault is used to stop the default action of form submissions.</p>
-    <p>Live URL: <a href="https://firepost.netlify.app/">https://firepost.netlify.app/</a></p>
+    <p>Live URL: <a href="https://redphantom.netlify.app/">https://redphantom.netlify.app/</a></p>
     <p className="font-bold text-xl">Installation</h2>
     <ol>
       <li>Clone the repository to your local machine.</li>
